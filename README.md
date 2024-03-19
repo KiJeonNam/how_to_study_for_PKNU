@@ -11,4 +11,7 @@
 
 감사합니다. 🤖
 
-@Copyright Prof.KiJeonNam (kjnam@pknu.ac.kr)
+@Copyright Prof.KiJeonNam (kjnam@pknu.ac.kr, https://sites.google.com/view/iesel)
+
+## Contents
+왜 환경공학도가 코딩과 AI를 공부해야 하는가
